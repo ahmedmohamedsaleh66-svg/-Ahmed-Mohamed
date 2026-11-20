@@ -5,7 +5,7 @@ I'm a Front-End Developer passionate about building clean, responsive and user-f
 
 🌐 Building modern, responsive websites with HTML, CSS and JavaScript
 💡 Focused on clean code, good design and great user experience
-🎓 Strong programming fundamentals with C++
+🎓 Strong programming fundamentals with C++ 
 🌱 Working on projects and improving every day
 📫 Open to job opportunities, freelance work, collaboration and feedback
 ⚡ Skills & Tech Stack
